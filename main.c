@@ -204,7 +204,7 @@ void initialize()
 
     glClearDepth(1.0);
 
-    initialize_texture("texture.png");
+    initialize_texture("texture.jpg");
 
     glEnable(GL_LIGHTING);
     glEnable(GL_LIGHT0);
